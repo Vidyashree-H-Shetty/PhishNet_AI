@@ -25,7 +25,7 @@ PhisNet AI is an advanced phishing detection system that analyzes URLs to determ
 
 ### Setup
 1. Clone the repository:
-   git clone 
+   git clone https://github.com/Vidyashree-H-Shetty/PhishNet_AI.git
    cd phisnet-ai
    
 2. Install backend dependencies:
